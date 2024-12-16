@@ -1,0 +1,77 @@
+.navbar {
+    display: flex; 
+    gap: 15px; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
+
+.navbar a {
+    color: #ffffff; 
+    text-decoration: underline; 
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+  .Hometitle {
+    color: #ffffff; 
+    text-decoration: none; 
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+    font-weight: bold;
+
+  }
+  .Welcomeback {
+    color: #ffffff; 
+    text-decoration: none; 
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+    font-weight: bold;
+
+  }
+  .Introductionwithshi {
+    color: #ffffff; 
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    text-decoration: none; 
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+    font-weight: bold;
+
+  }
+
+
+
+  .contacts {
+    color: #00ff11; 
+    font-size: medium;
+    text-decoration: none; 
+    text-shadow: -1px -1px 0 rgb(229, 255, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0); 
+    font-weight: bold;
+  }
+  .facebook {
+    color: #ffffff; 
+    font-size: medium;
+    text-decoration: underline;
+    text-shadow: -1px -1px 0 blue, 1px -1px 0 blue, -1px 1px 0 blue, 1px 1px 0 blue; 
+    font-weight: bold;
+  }
+  .instagram {
+    color: #ffffff; 
+    font-size: medium;
+    text-decoration: underline;
+    text-shadow: -1px -1px 0 rgb(181, 11, 57), 1px -1px 0 rgb(215, 14, 108), -1px 1px 0 rgb(217, 11, 11), 1px 1px 0 rgb(254, 0, 157); 
+    font-weight: bold;
+  }
+  .spaced-text {
+    margin: 5px; 
+    padding: 5px;
+}
+.spaced-text2 {
+    margin: 20px; 
+    padding: 20px;
+}
+
+a {
+    display: block;
+    margin-bottom: 10px; 
+}

@@ -1,0 +1,36 @@
+body {
+  background-image: url("webpage/loginpagegif.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.Welcome {
+  color: white;
+  font-weight: bold;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+}
+.login {
+  color: white;
+  font-weight: bold;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+}
+.register-button {
+  color: #ffffff; 
+  text-decoration: none; 
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+  font-weight: bold;
+  padding: 5px 10px;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+.register-button:hover {
+  background-color: #000000; 
+  color: white;
+}
+

@@ -1,0 +1,40 @@
+body {
+    background-image: url("webpage/loginpagegif.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+
+/* Style the table headers */
+.header {
+    color: white;
+    background-color: black; 
+    font-weight: bold;
+}
+
+/* Highlight specific cells */
+.days {
+    color: rgb(255, 255, 255); 
+    font-style: italic;
+}
+.others {
+
+    color: #ffffff; 
+    text-decoration: none; 
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+}
+/* General table styling */
+table {
+    border-collapse: collapse; /* Remove gaps between table cells */
+    width: 100%; /* Make table full width */
+    text-align: left; /* Align text to the left */
+}
+
+th, td {
+    border: 1px solid #ddd; /* Add borders */
+    padding: 8px; /* Add padding inside cells */
+}
